@@ -1,0 +1,5 @@
+name: "Setup PHP"
+description: "Setting up php"
+runs:
+  using: "docker"
+  image: "Dockerfile"
